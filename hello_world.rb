@@ -8,5 +8,5 @@ class HelloWorld
 	end
 end
 
-my_hello_world = HelloWorld.new("is it friday yet?")
+my_hello_world = HelloWorld.new("is it friday eve yet?")
 my_hello_world.say_something
